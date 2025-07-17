@@ -1,6 +1,3 @@
-# Hospital-Management-System
-Hospital Management System is a simple Java console-based application using JDBC to manage patients, appointments, and records. It connects to a MySQL database for storing and retrieving hospital data.
-
 # 🏥 Hospital Management System
 
 A simple **Java console-based** application using **JDBC** and **MySQL** to manage hospital operations like adding patients, viewing doctors, booking appointments, and more.
